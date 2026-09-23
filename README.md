@@ -1,20 +1,56 @@
-<h1 align="center">Hi , I'm Mohammed Rafiqul Islam 🙌</h1>
-<h3 align="center">Passionate about Software Development & Machine Learning</h3>
-<image src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
+# 👋 Hi, I'm Rafiq
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqsd85&label=Profile%20views&color=0b8ac1&style=flat" alt="rafiqsd85" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7C3AED&center=false&vCenter=true&width=600&lines=CSE+Student;Learning+Web+Development;Building+Projects;Learning+Database+Technologies)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdrafiqulislam2085/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdrafiqulislam2085/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rafiqul2788/?hl=en#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rafiqul2788/?hl=en#" height="30" width="40" /></a>
-</p>
+I'm passionate about learning new technologies, building projects, and improving my programming skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiqsd85&show_icons=true&locale=en&layout=compact" alt="rafiqsd85" /></p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rafiq_85)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_ra_fi_q)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrafiqulislam2085)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rafiqul9378)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdrafiqulislam9378@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiqsd85&show_icons=true&locale=en" alt="rafiqsd85" /></p>
+# 💻 Tech Stack:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqsd85&" alt="rafiqsd85" /></p>
+### 👨‍💻 Programming Languages
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+
+### 🗄️ Database
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=rafiqsd85&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=rafiqsd85&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafiqsd85&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=rafiqsd85&label=Profile%20Views&color=blue&style=for-the-badge)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
