@@ -1,8 +1,24 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Rafiq
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7C3AED&center=false&vCenter=true&width=600&lines=CSE+Student;Learning+Web+Development;Building+Projects;Learning+Database+Technologies)](https://git.io/typing-svg)
 
-I'm passionate about learning new technologies, building projects, and improving my programming skills.
+### 🌱 Learning, building, and growing with JavaScript, React, and TypeScript
+
+## 👨‍💻 About Me
+
+I'm a CSE student passionate about **web development and programming**. I enjoy building projects, exploring new technologies, and continuously improving my development skills.
+Currently, I'm focused on strengthening my knowledge of **React, TypeScript, and modern web technologies** while working on practical projects. 
+Feel free to connect with me if you want to talk about **web development, programming or interesting tech ideas!**
+
+### 🚀 Currently
+
+- 🌱 Exploring React and TypeScript
+- 💻 Building practical web development projects
+- 🗄️ Learning Database Technologies
 
 ## 🌐 Socials:
 
